@@ -10,16 +10,12 @@ This is a basic food ordering web page built using **HTML** and **CSS**. It's a 
 ## 📁 Files
 
 simple-food-order/
-├── index.html # Main HTML page
-├── style.css # CSS styling
-├── images/ # Folder for food item images
-└── README.md # Project information
+* index.html # Main HTML page
+*  style.css # CSS styling
+* images/ # Folder for food item images
+* README.md # Project information
 
-markdown
-Copy
-Edit
-
-## ✅ Features
+ ✅ Features
 
 - Clean and simple 
 - Menu section with food items
