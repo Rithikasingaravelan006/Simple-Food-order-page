@@ -2,7 +2,7 @@
 
 This is a basic food ordering web page built using **HTML** and **CSS**. It's a static website that displays a food menu and a simple layout for placing orders.
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - **HTML5** — Structure of the page  
 - **CSS3** — Styling and layout
